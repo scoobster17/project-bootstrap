@@ -1,0 +1,16 @@
+# dist/3rd party
+node_modules
+dist
+public
+
+# secrets
+config/*
+!config/default.yml
+
+# dev
+coverage
+.nyc_output
+*.tsbuildinfo
+
+# editor
+.idea

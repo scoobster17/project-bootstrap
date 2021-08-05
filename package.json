@@ -1,0 +1,29 @@
+{
+  "name": "project-bootstrap",
+  "version": "0.0.0",
+  "description": "This repository has been created to store my latest configurations. I'm finding newer and better ways to do things all the time, and I'm particularly interested in things like automation at the moment whereby workflow and productivity can be improved.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scoobster17/project-bootstrap.git"
+  },
+  "keywords": [
+    "project",
+    "bootstrap"
+  ],
+  "author": "Phil Gibbins <scoobster17@hotmail.co.uk> (https://philgibbins.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scoobster17/project-bootstrap/issues"
+  },
+  "homepage": "https://github.com/scoobster17/project-bootstrap#readme",
+  "devDependencies": {
+    "@philgibbins/code-style": "0.0.3"
+  },
+  "dependencies": {
+    "@philgibbins/server": "0.0.1"
+  }
+}
